@@ -133,7 +133,7 @@
                 slidesToShow: 1,
                 slidesToScroll: 1,
                 dots: true,
-                arrows: true,
+                arrows: false,
                 adaptiveHeight: true,
                 cssEase: 'linear',
                 prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-arrow-left"></i></button>',
